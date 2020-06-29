@@ -1,0 +1,16 @@
+{
+    "name": "demo/my-app",
+    "description": "A simple demo how to use composer",
+    "type": "project",
+    "require": {
+        "monolog/monolog": "1.0.*"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "kobi",
+            "email": "kobi@kistabug.com"
+        }
+    ],
+    "minimum-stability": "stable"
+}
